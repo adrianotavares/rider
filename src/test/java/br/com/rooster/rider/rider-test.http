@@ -6,9 +6,19 @@ POST http://localhost:8080/riders
 Content-Type: application/json
 
 {
-    "name":"Rooster" 
+    "name":"Rooster Rider" 
 }
 
 ###
+
+POST http://localhost:8080/riders
+Content-Type: application/json
+
+{
+    "name":"Rooster Road Captain" 
+}
+
+###
+
 DELETE http://localhost:8080/riders/3
 
