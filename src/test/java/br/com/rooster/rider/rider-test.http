@@ -1,0 +1,14 @@
+GET http://localhost:8080/riders
+
+###
+
+POST http://localhost:8080/riders
+Content-Type: application/json
+
+{
+    "name":"Rooster" 
+}
+
+###
+DELETE http://localhost:8080/riders/3
+
