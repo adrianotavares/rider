@@ -1,5 +1,4 @@
-# Getting Started
-
+# Rider REST API
 ### Reference Documentation
 For further reference, please consider the following sections:
 
