@@ -1,4 +1,4 @@
-# Rider REST API
+# Rider REST API https://github.com/adrianotavares/rider/actions/workflows/maven.yml/badge.svg
 ### Reference Documentation
 For further reference, please consider the following sections:
 
