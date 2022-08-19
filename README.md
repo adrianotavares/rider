@@ -1,4 +1,8 @@
-# Rider REST API https://github.com/adrianotavares/rider/actions/workflows/maven.yml/badge.svg
+# Rider REST API 
+
+![example branch parameter](https://github.com/adrianotavares/rider/actions/workflows/maven.yml/badge.svg?branch=master)
+
+
 ### Reference Documentation
 For further reference, please consider the following sections:
 
