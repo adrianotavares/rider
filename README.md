@@ -1,6 +1,6 @@
 # Rider REST API 
 
-![example branch parameter](https://github.com/adrianotavares/rider/actions/workflows/maven.yml/badge.svg?branch=master)
+![example branch parameter](https://github.com/adrianotavares/rider/actions/workflows/maven.yml/badge.svg)
 
 
 ### Reference Documentation
