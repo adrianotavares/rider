@@ -16,4 +16,7 @@ public class Rider {
     @Column(nullable=false)
     public String name;
 
+    @Column(nullable=false)
+    public String city;
+
 }
