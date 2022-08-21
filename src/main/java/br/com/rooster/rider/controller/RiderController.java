@@ -17,10 +17,8 @@ import br.com.rooster.rider.model.Rider;
 
 @RestController
 public class RiderController {
-    
     @Autowired
     public RiderRepository riderRepo;
-
     @GetMapping(value = "/riders")
     public List<Rider> get(){
         return riderRepo.findAll();
