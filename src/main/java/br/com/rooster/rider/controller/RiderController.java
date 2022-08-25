@@ -19,7 +19,9 @@ import br.com.rooster.rider.model.Rider;
 public class RiderController {
     @Autowired
     public RiderRepository riderRepo;
+ 
     @GetMapping(value = "/riders")
+    @ResponseStatus(HttpStatus.OK)
     public List<Rider> get(){
         return riderRepo.findAll();
     }
