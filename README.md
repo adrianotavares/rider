@@ -1,6 +1,6 @@
 # Rider REST API ![last_build](https://github.com/adrianotavares/rider/actions/workflows/maven.yml/badge.svg)
 
-(this is only a sample to use for agile trainning porpouse)
+_(this is only a sample to use for agile trainning porpouse)_
 
 ### Reference Documentation
 For further reference, please consider the following sections:
